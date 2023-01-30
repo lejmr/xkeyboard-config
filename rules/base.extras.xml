@@ -1046,6 +1046,12 @@
             <description>Czech (US, Colemak, UCW support)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem popularity="exotic">
+            <name>geekqwerty</name>
+            <description>Czech (Geek QWERTY, Windows flavour)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
