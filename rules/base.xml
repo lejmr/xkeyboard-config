@@ -3222,6 +3222,24 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>newqwertz</name>
+            <description>Czech (QWERTZ, Windows flavor)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>newqwerty</name>
+            <description>Czech (QWERTY, Windows flavor)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>geekqwerty</name>
+            <description>Czech (Geek QWERTY, Windows flavour)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
